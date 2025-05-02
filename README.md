@@ -24,8 +24,8 @@
 ### Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Ujusophy/personal-health-record.git
-   cd personal-health-record
+   git clone [https://github.com/Ujusophy/personal-health-record.git](https://github.com/Ujusophy/AI_Personal-Health-Record-Manager.git)
+   cd AI_Personal-Health-Record-Manager
    ```
 
 2. Install dependencies:  
